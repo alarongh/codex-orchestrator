@@ -1,6 +1,4 @@
-model = "gpt-6.2-sol"
-model_reasoning_effort = "high"
-
+# Настройки подагентов. Модель и усилие ведущего задаёт пользователь.
 [agents]
 default_subagent_model = "gpt-6.2-sol"
 default_subagent_reasoning_effort = "low"
