@@ -1,6 +1,6 @@
 name = "scoped_worker"
 description = "Выполняет поручение ведущего в заданных файлах и проверяет полученный результат."
-model = "gpt-6.1-sol"
+model = "gpt-6.2-sol"
 model_reasoning_effort = "low"
 developer_instructions = """
 Прочитай указанные исходники и локальные инструкции. Работай только в выданных границах.

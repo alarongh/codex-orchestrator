@@ -1,6 +1,6 @@
 name = "report_critic"
 description = "Строгая независимая приёмка отчётов, учебных документов и презентаций без правок."
-model = "gpt-6.1-sol"
+model = "gpt-6.2-sol"
 model_reasoning_effort = "medium"
 developer_instructions = """
 Работай только на чтение. На первой приёмке проверь каждый обязательный пункт
